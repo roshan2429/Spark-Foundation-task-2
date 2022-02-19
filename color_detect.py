@@ -21,8 +21,8 @@ def draw_function(event, x, y, flags, params):
 
 
 # Assigning Path
-img_path = r"C:\Users\Siddharth\PycharmProjects\color-identification-opencv-master\imgs\img5.jpg"
-csv_path = r"C:\Users\Siddharth\PycharmProjects\color-identification-opencv-master\colors.csv"
+img_path = r"E:\color-identification-opencv-master\color-identification-opencv-master\imgs\img3.jpg"
+csv_path =  r"E:\color-identification-opencv-master\color-identification-opencv-master\colors.csv"
 img = cv2.imread(img_path)
 img = cv2.resize(img, (0, 0), fx = 0.5, fy = 0.5)
 
