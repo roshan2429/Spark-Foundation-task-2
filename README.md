@@ -1,1 +1,1 @@
-# Spark-Foundation-task-2
+Detecting colors in image
